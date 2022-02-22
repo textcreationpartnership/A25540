@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to a paper entituled The Grievances of His Majesty's subjects residing within the principality of Wales in respect of the Court of the Council in the Marches of Wales : with the particular conveniences of that court.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25540</idno>
+            <idno type="STC">Wing A3332</idno>
+            <idno type="STC">ESTC R29059</idno>
+            <idno type="EEBO-CITATION">10804835</idno>
+            <idno type="OCLC">ocm 10804835</idno>
+            <idno type="VID">45976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to a paper entituled The Grievances of His Majesty's subjects residing within the principality of Wales in respect of the Court of the Council in the Marches of Wales : with the particular conveniences of that court.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of the Council in the Marches of Wales.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+               <term>Wales --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45976:1"/>
+            <pb facs="tcp:45976:1"/>
+            <p>AN ANSWER TO A PAPER, ENTITULED, THE GRIEVANCES OF HIS Majeſty's Subjects Reſiding within the PRINCIPALITY OF WALES, In Reſpect of the Court of the Council in the Marches of WALES.</p>
+            <p>With the Particular Conveniencies of that COURT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:45976:2" rendition="simple:additions"/>
+            <div type="introduction">
+               <pb n="1" facs="tcp:45976:2"/>
+               <head>INTRODUCTION.</head>
+               <p>THE ſaid Court was at firſt e<g ref="char:EOLhyphen"/>rected to ſuppreſs the violence of the <hi>Welſh,</hi> and for preſer<g ref="char:EOLhyphen"/>vation of the Peace in the Marches, and in the nature of the late Court of Star-Chamber; but in proceſs of time encroached on the Courts of Com<g ref="char:EOLhyphen"/>mon-Law, and held Pleas in Civil Actions by Engliſh Bill, and took encourage<g ref="char:EOLhyphen"/>ment thereto, by the Clauſe in <hi>34</hi> and <hi>35 Hen. 8. cap. 26.</hi> that gives that Court power to hear and determine, by their di<g ref="char:EOLhyphen"/>rections, ſuch matters as then after ſhould be aſſigned by the King, as then-to-fore uſed. And the ſame Act conſtitutes Courts of the Great Seſſions in every County for deter<g ref="char:EOLhyphen"/>ming of all Cauſes and Suits, where there is alſo a Court of Equity.</p>
+               <div type="answer">
+                  <head>ANSWER.</head>
+                  <p>IT will be agreed, that the ſaid Court was erected (amongſt other ends) for the Suppreſſion of Violence, and the Preſervation of the Peace in <hi>Wales;</hi> but it is abſolutely deny'd, that the ſaid Court was at firſt erected meerly in the nature of a Star Chamber-Court; for this Court continues, notwithſtanding the Star-Chamber-Juriſdiction hath been long ſince abrogated by Statute; nor hath the ſaid Court incroached upon the Courts at Common-Law, or uſed any power more than what is warrantable by the Laws and Uſages of that Country, confirmed by Parliament; and for the manifeſtation hereof, the Anſwer to the ſaid pretended Grievances is this, <hi>viz.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="1" type="grievance">
+               <head>Grievances.</head>
+               <q>
+                  <p>
+                     <hi>I.</hi> THat nevertheleſs, the Judges of the ſaid Court of the Marches do take Cognizance, and take upon them to decree Damages in Actions of Treſpaſs on the Caſe, Slander, Aſſault and Battery, <hi>&amp;c.</hi> where the damages are uncertain, and ought by the Law of the Land to be aſſeſſed by a Jury.</p>
+               </q>
+               <div n="1" type="answer">
+                  <head>Anſwer.</head>
+                  <p>I. IT is manifeſt by divers Preſidents yet remaining amongſt the Records of the ſaid Court, that before the thirty fourth year of <hi>Hen.</hi> 8. the Judges of the ſaid Court, by an ancient Uſage there, did conſtantly take upon them to decree Damages in A<g ref="char:EOLhyphen"/>ctions of Treſpaſs on the Caſe, Slander, Aſ<g ref="char:EOLhyphen"/>ſault and Batttery, where the offences were well proved by Engliſh Depoſitions: Then came the Statute of 34 and 35 <hi>H.</hi> 8. <hi>cap.</hi> 26. by which it is enacted, That there ſhall. be and remain a Preſident and Council in the ſaid Principality of <hi>Wales</hi> and the Mar<g ref="char:EOLhyphen"/>ches of the ſame, <hi>&amp;c.</hi> in manner and form as hath been heretofore uſed and accu<g ref="char:EOLhyphen"/>ſtomed; which Preſident and Council ſhall have power to hear and determine by their Wiſdom and Diſcretion ſuch Cauſes as be, or hereafter ſhall be aſſigned to them by the King's Majeſty, as heretofore hath been accuſtomed and uſed, purſuant to this Sta<g ref="char:EOLhyphen"/>tute, the ſeveral Kings and Queens of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have ever ſince to this day, by their Inſtructions ready to be produced, impower<g ref="char:EOLhyphen"/>ed the Judges of that Court to hold Plea in the ſaid Actions of Treſpaſs on the Caſe, Slander, Aſſault and Battery, and by their Wiſdoms and Diſcretions to decree Dama<g ref="char:EOLhyphen"/>ges therein, where the Offences are well proved by <hi>Engliſh</hi> Depoſitions, as then-to-fore had been uſed and accuſtomed; ſo that it is very plain, that in this particular the Court does no more than what by Law is juſtifiable, and with ſubmiſſion more con<g ref="char:EOLhyphen"/>venient
+<pb n="2" facs="tcp:45976:3"/>
+and beneficial to the poor Subjects of <hi>Wales,</hi> than if their Cauſes were tried by a Jury; for the Judges of that Court are al<g ref="char:EOLhyphen"/>ways Men of Abilities and Learning, and therefore much more unlikely to be byaſ<g ref="char:EOLhyphen"/>ſed or corrupted, than poor ignorant Coun<g ref="char:EOLhyphen"/>try-men, who in thoſe parts ſcarce dare give a Verdict againſt a man of any Note or Quality. But however, if this be eſteem<g ref="char:EOLhyphen"/>ed a real Grievance, this may be a cauſe to alter the Law, but not to take away the Court, which in this reſpect does nothing but what is now warrantable; and upon the ſame grounds this may be a reaſon alſo to alter the Proceedings in the High Court of Chancery, which does determine mens Rights by <hi>Engliſh</hi> Depoſitions and Teſtimo<g ref="char:EOLhyphen"/>nies without any Trial by Jury.</p>
+               </div>
+            </div>
+            <div n="2" type="answer">
+               <q>
+                  <p n="2">
+                     <hi>II.</hi> That the Defendants in mat<g ref="char:EOLhyphen"/>ters of Aſſault and Battery, are in the ſaid Court compelled to appear to an Engliſh Bill, and to anſwer the ſame upon Oath, though the ſame contain matters criminal.</p>
+               </q>
+               <p n="2">II. The Author of the ſaid Paper is diſ<g ref="char:EOLhyphen"/>ingenuous in this particular, becauſe the Court never does require the Defendant to anſwer upon Oath to an Action of Aſſault and Battery, but always accepts of his Plea by his Clerk or Attorney without any Oath, as a pears by the ſtanding Rules of the Court.</p>
+            </div>
+            <div n="3" type="answer">
+               <q>
+                  <p n="3">
+                     <hi>III.</hi> That the ſaid Court do hold Plea, hear, and make Decrees for ſmall Debts, under forty Shillings; and in ſuch Suits do allow more Coſts than the Debts and Dama<g ref="char:EOLhyphen"/>ges do amount unto: And that in Actions and Suits for Treſpaſs, Aſ<g ref="char:EOLhyphen"/>ſault and Battery, and on the Caſe, where the damages are not proved to be above <hi>2 <abbr>d.</abbr>
+                     </hi> there are uſually given by the ſaid Court <hi>4</hi> or <hi>5 lib.</hi> coſts; and where the Plaintiffs Bill is diſmiſs'd, it is generally without any Coſts to the Defendant; by rea<g ref="char:EOLhyphen"/>ſon whereof many Vexatious and troubleſom Suits are incouraged by the Clerks and Sollicitors belonging to the ſaid Court.</p>
+               </q>
+               <p n="3">III. The Court of the Marches in this re<g ref="char:EOLhyphen"/>ſpect does no more than what is done by the Courts of <hi>Weſtminſter,</hi> and in the Great Seſſions of <hi>Wales;</hi> for in theſe Courts if the Debt in the Declaration be laid to forty Shillings or more, and what the Plain<g ref="char:EOLhyphen"/>tiff recovers be under forty Shillings, yet he ſhall have his full Coſts, which at the leaſt comes to ſix or ſeven Pounds: So in Treſpaſſes of all ſorts, before the Statute in that caſe made, the Courts at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> did award full Coſts, tho' the dama<g ref="char:EOLhyphen"/>ges recovered were under forty Shillings, and not above Two-pence; and notwith<g ref="char:EOLhyphen"/>ſtanding this Statute which moderates the Coſts in theſe Caſes, in the Courts at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and not elſewhere, the Judges there have made ſuch Expoſitions upon this Act, that it is in a great meaſure eva<g ref="char:EOLhyphen"/>ded; for in theſe Actions of Treſpaſſes, if there appears any thing of a Converſion, tho' it be but of a Shilling value, they al<g ref="char:EOLhyphen"/>ways award full Coſts. Alſo in an Action of Battery in the Courts at <hi>Weſtminſter,</hi> if the Damages be found to be but one Shil<g ref="char:EOLhyphen"/>ling, yet if the Judge that tries the Cauſe, does certify, that the Battery was well pro<g ref="char:EOLhyphen"/>ved at the Tryal, the Plaintiff ſhall have his full Coſts: But in this Court of the Marches (tho' there is no Act of Parlia<g ref="char:EOLhyphen"/>ment that does fetter it in point of Coſts) yet if the Action appears to be frivolous, the Court either gives no Coſts, or but very little, as 10, 15, or 20 Shillings; and if there be cauſe, they do diſmiſs the Suit with coſts to the Defendant for his vexation.</p>
+            </div>
+            <div n="4" type="answer">
+               <q>
+                  <p n="4">
+                     <pb n="3" facs="tcp:45976:3" rendition="simple:additions"/>
+                     <hi>IV.</hi> That no Defendant ſhall in the ſaid Court have a <hi>Dedimus</hi> to anſwer, but he muſt firſt pay the Plaintiff, or his Attorney, <hi>6 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+                     </hi> which, with the Copy of the Bill, <hi>De<g ref="char:EOLhyphen"/>dimus,</hi> Drawing, Anſwer, and Ex<g ref="char:EOLhyphen"/>pence of Commiſſioners, <hi>&amp;c.</hi> will a<g ref="char:EOLhyphen"/>mount to forty or fifty Shillings, not<g ref="char:EOLhyphen"/>withſtanding the Debt or Damages in demand is not really <hi>6 <abbr>d.</abbr>
+                     </hi> To avoid which Expence, and eſpecial<g ref="char:EOLhyphen"/>ly when they are ſued and moleſted by beggarly People, the Defendants in ſuch Actions, tho' there be no cauſe of Action againſt 'em, do chuſe rather to compound with the Plain<g ref="char:EOLhyphen"/>tiff, than to anſwer the Action with ſo great an Expence, which gives great encouragement to Curſitors, and other litigious poor People, to bring and multiply vexatious Actions in the ſaid Court, whereby the mean and ignorant ſort of People within the ſame Juriſdiction are very much impoveriſhed.</p>
+               </q>
+               <p n="4">IV. Herein alſo the Author of the ſaid Paper is very diſingenuous, for that the Defendant hath always a <hi>Dedimus</hi> to an<g ref="char:EOLhyphen"/>ſwer of courſe, without paying one Penny to the Plaintiff, or his Attorney; neither is the Plaintiff or Defendant forced to take out any Copies of the Proceedings in Debts or Treſpaſſes under <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pounds, but each Party by his Clerk or Attorney, hath acceſs to the Original Records to peruſe them at pleaſure without Fee, and to take ſuch Notes thereof <hi>gratis,</hi> as he thinks fit; nay, when the Cauſe comes to hearing, the Parties, to avoid charge, are admitted in theſe ſmall Cauſes, to carry the Re<g ref="char:EOLhyphen"/>cords themſelves to their Counſel for their Inſtructions: But if the Cauſe be a matter of Title of Land in Equity, or Debt, or Treſpaſs, above Ten Pound value, then the Records are to be copied in the Office; for which Copy the Party is to pay four Pence a Sheet, each Sheet to contain twelve lines, and ſixteen words in each line, which is not above half the Charge of co<g ref="char:EOLhyphen"/>pying in <hi>Weſtminſter-Hall</hi> and the Great Seſſions.</p>
+            </div>
+            <div n="5" type="answer">
+               <q>
+                  <p n="5">
+                     <hi>V.</hi> That the Proceſſes for Con<g ref="char:EOLhyphen"/>tempt in the ſaid Court, were gene<g ref="char:EOLhyphen"/>rally directed (not to the Sheriffs) but to private perſons nominated by the Plaintiff, who are not ſworn Of<g ref="char:EOLhyphen"/>ficers, as well as to Purſuivants, and Serjeant at Arms, by whom ſeveral poor People are uſually forced from their own habitations, being an hun<g ref="char:EOLhyphen"/>dred miles diſtance, to Priſon, to the Lodge at <hi>Ludlow,</hi> for the non-payment of the unreaſonable and great Fees demanded by ſuch Offi<g ref="char:EOLhyphen"/>cers.</p>
+               </q>
+               <p n="5">V. The firſt Proceſs is in nature of a Summons, and ſo in effect is the ſecond, called a Contempt, upon either of which no perſon is arreſted or holden to Sureties, as in other Courts; but after, if the Defen<g ref="char:EOLhyphen"/>dant continues obſtinate, and will not ap<g ref="char:EOLhyphen"/>pear, he is arreſted upon a Proceſs directed to the Sheriff, and other ſpecial Bailiffs, but never carried to any Priſon, if with one Surety he will enter into Bond of 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> pe<g ref="char:EOLhyphen"/>nalty to appear upon the Return of this third Proceſs; and if upon this third Pro<g ref="char:EOLhyphen"/>ceſs he refuſes to give Bond to appear, he is never carried out of the County to any Priſon, unleſs it be in ſome very extraor<g ref="char:EOLhyphen"/>dinary Cauſe of Contempt, upon breach of Orders; ſo that if any Prejudice does ariſe to him in this reſpect, he may thank hinſelf for the miſchief which he might have prevented by two Summons, or a Bond for Appearance; and if there be any Er<g ref="char:EOLhyphen"/>ror in theſe Proceedings, the Court upon Information, orders the Plaintiff to loſe the Charge he hath been at, and to pay Coſts to the Defendant. If Proceſs were direct<g ref="char:EOLhyphen"/>ed to the Sheriffs alone, Juſtice would be delayed in the Execution, and re<g ref="char:EOLhyphen"/>torn of Proceſs, eſpecially in the caſes of Gentlemen and wealthy Perſons, who in this Country of <hi>Wales</hi> are moſt commonly re<g ref="char:EOLhyphen"/>lated to Sheriffs and their Deputies; nei<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:45976:4" rendition="simple:additions"/>
+are the Fees of the ſpecial Bailiffs ex<g ref="char:EOLhyphen"/>travagant, the Fee for an Arreſt being ve<g ref="char:EOLhyphen"/>ry ſmall, and to be paid by the Plaintiff, and not the Party Arreſted.</p>
+            </div>
+            <div n="6" type="answer">
+               <q>
+                  <p n="6">
+                     <pb n="4" facs="tcp:45976:4" rendition="simple:additions"/>
+                     <hi>VI.</hi> That where any of his Maje<g ref="char:EOLhyphen"/>ſties Courts of <hi>Weſtminſter</hi> do grant Prohibitions in Cauſes not properly determinable in the ſaid Court, yet if the Party that procures ſuch Pro<g ref="char:EOLhyphen"/>hibition, after he is put to a conſide<g ref="char:EOLhyphen"/>rable Charge, hath no benefit thereof unleſs he perſonally ſerves the other Party therewith (who will abſcond) the Judges of the ſaid Court refuſing to obey any ſuch Prohibition, or elſe impriſoning ſuch as ſerve them there<g ref="char:EOLhyphen"/>with.</p>
+               </q>
+               <p n="6">VI. The Charge of the Sixth Article is not true; for in the firſt place it is de<g ref="char:EOLhyphen"/>nied, that the Court does countenance any Cauſe, wherein they have not Juriſdiction: But however, if any Prohibition be at any time granted out of <hi>Weſtminſter-Hall,</hi> and the Plaintiff abſcond, the Service upon his Counſel, Attorney, or Sollicitor, or any of the Judges, is ſufficient, and always obeyed; nor can any inſtance be made of any Perſon that was impriſoned for ſer<g ref="char:EOLhyphen"/>ving a Prohibition, unleſs he did it upon the Judges ſitting in Court, with abuſive and inſolent words.</p>
+            </div>
+            <div n="7" type="answer">
+               <q>
+                  <p n="7">
+                     <hi>VII.</hi> That after Actions brought, or Tryals had in His Majeſty's Court of great Seſſions, or in His Majeſty's Courts at <hi>Weſtminiſter,</hi> the Judges of the ſaid Courts of Marches, upon a Bill filed in that Court by the De<g ref="char:EOLhyphen"/>fendant at Law, ſuggeſted matter of Equity, do uſually take upon them to grant Injunctions to ſtay proceed<g ref="char:EOLhyphen"/>ings in the ſaid Courts of <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and great Seſſions; and in caſe the Plaintiff at Law go on in any ſuch Actions, will ſeverely proceed againſt, and impriſon ſuch Plaintiffs at Law, if to be found within their Juriſdiction.</p>
+               </q>
+               <p n="7">VII. As to ſo much of this Article as relates to the Courts of <hi>Weſtminſter Hall,</hi> the Author of theſe pretended Grievances is de<g ref="char:EOLhyphen"/>ſired to give us ſome particular Inſtances to prove the Allegation; for Perſons who have been Practiſers in the Marches, and Officers there for many years, cannot re<g ref="char:EOLhyphen"/>member any ſuch thing ever done; but it is confeſſed, that after an Action brought and before Verdict had in the great Seſ<g ref="char:EOLhyphen"/>ſions, ſome Judges of the ſaid Court of the Marches, in imitation of the High Court of Chancery, have of late granted ſome Injunctions to ſtay the proceedings there, when the Defendant in his Anſwer hath diſcovered ſome equitable Matter, for which the Plaintiff was relievable in a Court of Equity. But if this be a fault, it is a fault contrary to the Inſtructions and Law of the Court, and therefore can be no Rea<g ref="char:EOLhyphen"/>ſon to deſtroy the Court, but rather to puniſh the Judges.</p>
+            </div>
+            <div n="8" type="answer">
+               <q>
+                  <p n="8">
+                     <hi>VIII.</hi> That in caſe of a Writ of Error, of a Judgment in a perſonal Action in the Grand Seſſions in <hi>Wales,</hi> brought in the ſaid Court of the Marches, if after Errors aſſigned, the Defendant in the Writ of Er<g ref="char:EOLhyphen"/>ror pleads a Releaſe, or other mat<g ref="char:EOLhyphen"/>ter of Fact thereto, the ſaid Court cannot proceed to determine ſuch Error for want of a Jury; whereby ſuch Writs of Error will for ever remain undetermined, and the Plain<g ref="char:EOLhyphen"/>tiff in the great Seſſions ſhall never have any fruits of his Judgment; which is a failure of Juſtice, which has ſeveral times fallen out in the ſaid Court, upon Writs of Error there brought; beſides that the ſaid
+<pb n="5" facs="tcp:45976:4" rendition="simple:additions"/>
+Court of Marches, which is no Court of Record, tak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon them to cor<g ref="char:EOLhyphen"/>rect and determine Errors in the great Seſſions, which is a Court of Record.</p>
+               </q>
+               <p n="8">
+                  <pb n="4" facs="tcp:45976:4" rendition="simple:additions"/>VIII. There is no failure of Juſtice in the Caſe therein alledged; for the Statute of 34 &amp; 35 <hi>H.</hi> 8. which impowers this Court of the Marches to examine errone<g ref="char:EOLhyphen"/>ous Judgments given in Perſonal Actions in the great Seſſions of <hi>Wales,</hi> does impli<g ref="char:EOLhyphen"/>citly and neceſſarily impower them to Try any Matter of Fact that may be pleaded in ſuch a Caſe, tho' it be not mentioned in expreſs words; for it is a Rule in Law, <hi>Quando aliquid conceditur concedi videtur id ſine quo res ipſa eſſe non poteſt:</hi> Therefore in 14 <hi>H.</hi> 8. <hi>f.</hi> 1. It is reſolved, That if one makes a Leaſe, excepting a Cloſe or Wood, the Law giveth him a way to it, tho' there be no expreſs words concerning the way. And therefore in this Court of the Marches there are Preſidents, that when any ſuch Matter of Fact has been pleaded upon a Writ of Error, as is mentioned in this Article, which happens but very ſeldom,
+<pb n="5" facs="tcp:45976:4" rendition="simple:additions"/>
+the ſame has been Tryed at the great Seſ<g ref="char:EOLhyphen"/>ſions in ſome County of <hi>Wales,</hi> upon a feigned Iſſue directed by this Court of the Marches; and beſides, if there be a failure in this Court of the Marches, there is the like failure in the Court of the Exchequer-Chamber, erected by the Stat. of 27 <hi>Eliz.</hi> for redreſſing Errors in the Kings-Bench; for if a Matter of Fact be pleaded there, the Statute by expreſs words does not pro<g ref="char:EOLhyphen"/>vide how this Fact ſhall be Tryed, but in thoſe caſes ſuch Matters of Fact have been Tryed by <hi>Niſi prius:</hi> So that this Court of the Marches is no otherwiſe defective in this point than the Court of Exchequer-Chamber, and if either of them were de<g ref="char:EOLhyphen"/>fective in theſe points, as they are not, that is a defect in the Law, and ſufficient cauſe for a Parliament to redreſs it by a new Act, but no cauſe to deſtroy the Courts. And that this Court is a Court of Record in this reſpect, is very evident; for the pro<g ref="char:EOLhyphen"/>ceedings herein upon Writs of Error, are in Latin, as in other Courts of Record, and the Court takes its Juriſdiction in this particular by an Act of Parliament, and awards Execution if the Judgment be affir<g ref="char:EOLhyphen"/>med.</p>
+            </div>
+            <div n="9" type="answer">
+               <q>
+                  <p n="9">
+                     <hi>IX.</hi> If a Sheriff, Bayliff, or other Officer execute any Proceſs from that Court for the King or Subject, and the Defendant bringeth an Action of falſe Impriſonment, ſuch Officer can<g ref="char:EOLhyphen"/>not plead Not Guilty, and giveth Proceſs in Evidence, but muſt be in<g ref="char:EOLhyphen"/>forced to plead the Statute at large, together with their Inſtructions, which never yet could be drawn by the beſt Clerk; beſides that it will coſt upwards of ten pounds; where<g ref="char:EOLhyphen"/>as perhaps, the damage in the Ori<g ref="char:EOLhyphen"/>ginal Action did not exceed <hi>12 <abbr>d.</abbr>
+                     </hi>
+                  </p>
+               </q>
+               <p n="9">IX. Pleas to Actions of Falſe Impriſon<g ref="char:EOLhyphen"/>ments brought againſt Officers for execu<g ref="char:EOLhyphen"/>ting the Proceſs of this Court, have been drawn by Council, and maintain'd, which are yet to be ſeen upon Record, and may be uſed as a Preſident in the like caſe at any time for a very inconſiderable Charge; and if no ſuch Plea had been yet drawn, yet certainly it is not impoſſible or difficult to be done by any Lawyer, except the Au<g ref="char:EOLhyphen"/>thor of this Paper.</p>
+            </div>
+            <div n="10" type="answer">
+               <q>
+                  <p n="10">
+                     <hi>X.</hi> They uſually alter, and fre<g ref="char:EOLhyphen"/>quently quiet Poſſeſſion upon the filing of a Bill there, without any Proceſs ſerved upon the Defendant; and often-times upon the Oaths of the Proſecutor; whereby men often loſe their right, at leaſt, with much charge and difficulty regain the ſame.</p>
+               </q>
+               <p n="10">X. There is no Injunction granted out of this Court to alter or quiet any Poſſeſſi<g ref="char:EOLhyphen"/>on before a Bill Fil'd in the Court, ſetting forth the Complainant's Title, and an Affi<g ref="char:EOLhyphen"/>davit made, that he hath been in quiet and peacable Poſſeſſion, by Vertue of that Title, for three years before the exhibiting of the ſaid Bill, and then the Injunction is only to quiet the Poſſeſſion till Eviction by a due courſe of Law, which the Party enjoyned may commence and proſecute with what ſpeed he pleaſe, and ſo bring the matter to a Legal determination. And if he recovers by Law, the Injunction is forthwith diſſolved. But if this Affidavit be falſe, the Party concerned hath liberty to take Iſſue thereupon, and to prove it ſo by Witneſſes, which if he does, the In<g ref="char:EOLhyphen"/>junction
+<pb n="6" facs="tcp:45976:5"/>
+is immediately diſſolved, and good Coſts to him awarded for the vexation. And moreover, the King's Attorney, attending this Court, is ordered to Proſecute an In<g ref="char:EOLhyphen"/>dictment of Perjury againſt the Offender for this falſe Oath. This proceeding is warranted by a particular Inſtruction from the King, grounded upon the ſaid Statute of 34 and 35 <hi>Hen.</hi> 8. <hi>cap.</hi> 26. for the pre<g ref="char:EOLhyphen"/>venting of Blood-ſhed and Murder, which before often happened on ſuch Occaſions in <hi>Wales;</hi> and if that Power ſhould be ta<g ref="char:EOLhyphen"/>ken away, the old turbulent Humour would ſoon revive, to the great diſturbance of the tranquillity of that part of the King<g ref="char:EOLhyphen"/>dom, and the ſtrongeſt Man would have poſſeſſion of the beſt Eſtate, till he could be evicted by a great Expence, which a poor Man out of Poſſeſſion could never undergo.</p>
+            </div>
+            <div n="11" type="answer">
+               <q>
+                  <p n="11">
+                     <hi>XI.</hi> Many lewd and diſſolute Per<g ref="char:EOLhyphen"/>ſons live by ſerving the Proceſs of the Court, and making <hi>Affidavit</hi> thereof; and though they can neither write nor read, yet will ſwear the ſerving of forty or fifty Proceſſes at one time; wherein they cannot but oftentimes forſwear themſelves, and much prejudice the Defendant.</p>
+               </q>
+               <p n="11">XI. This may be objected againſt the Court of Chancery and Exchequer-Cham<g ref="char:EOLhyphen"/>ber, and divers other Courts, where illite<g ref="char:EOLhyphen"/>rate People are moſtly employed to ſuch purpoſes; but particular care is taken in this Court by the Judges, ſtrictly to examine them, and to caution them well of what they ſwear, and to puniſh them if they ſwear falſe.</p>
+            </div>
+            <div n="12" type="answer">
+               <q>
+                  <p n="12">
+                     <hi>XII.</hi> That they uſually grant In<g ref="char:EOLhyphen"/>junctions to ſtay proceedings in in<g ref="char:EOLhyphen"/>feriour Courts, which hold Plea only of Treſpaſſes, and Debts under forty ſhillings; whereas it was never in<g ref="char:EOLhyphen"/>tended, the ſaid Court of the Council of the Marches ſhould hold Plea of any Debt under forty ſhillings.</p>
+               </q>
+               <p n="12">XII. This Court never grants Injuncti<g ref="char:EOLhyphen"/>ons or <hi>Certioraries</hi> to remove Actions out of Inferiour Courts, but upon a Bill filed, and Oath made of Partiality in the Infe<g ref="char:EOLhyphen"/>riour Court, either becauſe the Plaintiff be<g ref="char:EOLhyphen"/>low is an Inhabitant in the Inferiour Juriſ<g ref="char:EOLhyphen"/>diction, and the other a Foreigner, Or if the Plaintiff is an Alderman of the Cor<g ref="char:EOLhyphen"/>poration, or Related to the Steward or Judge there: and when the Plaintiff below appears, he by Anſwer ſets forth the Na<g ref="char:EOLhyphen"/>ture of his Plaint below, and the Plaintiff in the Court of the Marches by Replica<g ref="char:EOLhyphen"/>tion ſets forth what he hath to Plead in Bar, and if the matter of his Plea be not ſufficient, the Plaintiff below recovers his Debt in this Court, with his Coſts; and this removal muſt be before the Verdict, upon the firſt Commencement of the Suit below, and the Party that removes the Action, muſt firſt give Security in the Court of the Marches, to anſwer the Duty and Coſts, in caſe the Suit goes againſt him. All which warranted by the Inſtructions of the Court. And beſides all this, the Author of that Paper is challenged to ſhew any Law, whereby the Court of the Mar<g ref="char:EOLhyphen"/>ches is intended to be excluded from hold<g ref="char:EOLhyphen"/>ing Plea of Debts under forty ſhillings.</p>
+            </div>
+            <div n="13" type="answer">
+               <q>
+                  <p n="13">
+                     <pb n="7" facs="tcp:45976:5"/>
+                     <hi>XIII.</hi> That the Inhabitants of <hi>Wales</hi> are ſubject not only to the Court and the Great Seſſions, but al<g ref="char:EOLhyphen"/>ſo to the Courts of <hi>Weſtminſter,</hi> and oft-times ſerved to appear both at <hi>London</hi> and <hi>Ludlow</hi> in one and the ſame day; and that the vexa<g ref="char:EOLhyphen"/>tious Suits and Proceedings in the ſaid Court of Marches, and the great Oppreſſions of the Practiſers, Clerks, and Officers of the ſaid Court, have been of late by ſeveral Grand Juries of ſeveral Counties in <hi>Wales,</hi> pre<g ref="char:EOLhyphen"/>ſented as a great Grievance, and fit to be redreſſed.</p>
+               </q>
+               <p n="13">XIII. This is no Objection; for the De<g ref="char:EOLhyphen"/>fendants in this Court may appear by At<g ref="char:EOLhyphen"/>torney: It is true, <hi>Wales</hi> is liable to ſeveral Juriſdictions, and ſuffers moſt by thoſe of <hi>Weſtminſter,</hi> ſo chargeable and remote from thence. If the High Court of Chancery and Exchequer would not meddle with any Cauſe of Equity ariſing in <hi>Wales,</hi> if there were fewer <hi>Quo minus's</hi>—ſent out of the Ex<g ref="char:EOLhyphen"/>chequer into <hi>Wales,</hi> and none but againſt ſuch as were really Debtors to the King, as by Law it ought to be, if fewer Out<g ref="char:EOLhyphen"/>lawries were in the Kings-Bench and Common-Pleas, all reaſonable men muſt allow it would be better for <hi>Wales.</hi> And the Author of the pretended Grievances, would be a better Friend to his Country, to promote a Law to limit the Juriſdiction of theſe Superiour Courts, as to <hi>Welſh</hi> Cauſes, than to endeavour to pull down an ancient Court that contributes ſo much to the good of his Country. There is no Court without ill Practitioners; but if that be an Argument to take away the uſe of all Courts, where will be Juſtice found? And that this Court muſt be taken down, and not others in far greater Faults, is ſtrange Partiality.</p>
+            </div>
+            <div n="14" type="answer">
+               <q>
+                  <p n="14">
+                     <hi>XIV.</hi> That the the ſaid Court is an Expence to his Majeſty of many thouſand Pounds <hi>per annum;</hi> and as the Officers, Clerks, and Mini<g ref="char:EOLhyphen"/>ſters of the ſaid Court do manage their buſineſs there, do make uſe of the Power and Authority thereof, to oppreſs his Majeſties Subjects; and there being now no Court of Star-Chamber there, the ſaid Court is now uſeleſs, there being Courts of Law and Equity held twice a year of the Grand Seſſions, where Cauſes may be determined at leſs charge and trouble to the Parties, within the proper County where they live.</p>
+               </q>
+               <p n="14">XIV. The Expence of this Court to his Majeſty, is not above 2700 <hi>
+                     <abbr>l.</abbr> per annum,</hi> which is inconſiderable in reſpect of the Advantage it hath in all Ages brought to the Crown; for hereby the Peace and Tranquillity of the Nation is better main<g ref="char:EOLhyphen"/>tained than otherwiſe it would be; and it is for the Grandeur of the Crown to have a great Power to preſide in thoſe parts, e<g ref="char:EOLhyphen"/>ſpecially when God ſhall pleaſe to bleſs this Nation with a Prince of <hi>Wales.</hi> In the late times, when there was no Court holden in the Marches, many Outrages were com<g ref="char:EOLhyphen"/>mitted in the Intervals of War; and it was then the reſtleſs humour of that People to find out the way to <hi>Westminſter,</hi> whereby many good Families were ruined: The Itch of going to Law, will bring more Griſt to <hi>Weſtminſter-Hall,</hi> and more Fees to ſome mens Pockets (which peradventure is the <hi>Diana,</hi> and the thing ſome men contend for) but in a ſhort time will impoveriſh <hi>Wales</hi> beyond imagination. The Author of this Paper in modeſty might have ſpa<g ref="char:EOLhyphen"/>red ſaying, that this Court hath uſed any Oppreſſion towards the King's Subjects, till he had proved ſome particular Inſtances by ſome better Teſtimony than his own bare Affirmation: And as to what he ſays, That the Charge of the Great Seſſions is leſs than of this Court, this is like the reſt; for in the Great Seſſions it is uſual for matters in
+<pb n="8" facs="tcp:45976:6"/>
+Equity to depend ſeven, eight, nine, and ten years; but in this Court that Author is challenged to ſhew that ever a Cauſe depended two years, where there has been any careful Proſecution; and by conſe<g ref="char:EOLhyphen"/>quence, which is moſt chargeable, is left to the Judgment of others.</p>
+            </div>
+         </div>
+         <div type="supporting_argument">
+            <pb n="9" facs="tcp:45976:6"/>
+            <head>The Particular Conveniencies of the CO<g ref="char:V">Ʋ</g>RT of the <hi>MARCHES.</hi>
+            </head>
+            <p n="1">1. THis Court is the beſt Court for mean Men who are to Conteſt their Right with Men of Fortune and Power; for by the Influence that ſuch great Men have with Jurors, Sheriffs, Bayliffs and other Officers, Men of ſmall Eſtates have frequently miſcarried in their Suits, how good ſoever their Titles were: Which Miſchief is eaſily prevented by a worthy Preſident, with a Well-choſen Council.</p>
+            <p n="2">2. Whereas the Great Seſſions are but twice a year, and Cauſes there in Equity often hold Five, Six, Seven, and Ten years before they come to a Determination, and ſometimes Thirty Pound or more is given for Coſts of Suits; This Court of the <hi>Marches</hi> ordinarily Determines a Cauſe in three Terms, and ſeldom allows for Coſts above Fifty Shillings or Three Pound, except extraordinary delays have been us'd by the Defendant. In this Court there are holden Four Terms and two Appearances in one year, each of which, as to the diſpatch of Buſineſs, is at leaſt equal to a Great Seſſions, ſo that as much Buſineſs may be done in one year in this Court of the <hi>Marches,</hi> as in three in the Great Seſſions, which are holden but ſix times in three years in any one County.</p>
+            <p n="3">3. If this Court be taken away, peradventure no <hi>Welſhman</hi> can be releiv'd in his own Country in any Equitable Cauſe; for it is doubtful whether any other Lawful Court of Equity be in <hi>Wales,</hi> eſpecially in <hi>South-Wales:</hi> For the Courts of Equity in <hi>South-Wales</hi> have in <hi>Weſtminſter-Hall</hi> often been queſtion'd, and in the noted Caſe of <hi>Pugh</hi> and <hi>Owen</hi> it was adjudged Illegal, and a Prohibition Granted: The ſame Reaſon holds for the two Countys of <hi>Montgomery</hi> and <hi>Denby</hi> in <hi>North-Wales;</hi> be<g ref="char:EOLhyphen"/>cauſe theſe are new Counties made out of Lordſhips <hi>Marchers</hi> by the <hi>Stat.</hi> 26 <hi>H.</hi> 8. <hi>c.</hi> 26. It is true the Judges of thoſe Circuits after the <hi>Stat.</hi> 34 <hi>H.</hi> 8. did take upon them by Petitions, to give relief in Equity in ſome particular Matters, but not formally by Bill till the time of <hi>J.</hi> 1. And it is well known a Court of E<g ref="char:EOLhyphen"/>quity cannot be erected by the Kings Grant, but muſt be by Preſcription, or by Act of Parliament: but if ſuch a Court were legal, yet, as appears above, the Court of the <hi>Marches</hi> is more uſeful.</p>
+            <p n="4">4. Writs from <hi>Weſtminster</hi> are very hardly Executed in <hi>Wales,</hi> eſpecially in the Caſes of Foreigners; for if they happen to be concern'd in any Eſtates in <hi>Wales,</hi> or have a right to any Debt there, they will find ſuch Partiality in Sheriffs, that they will be without Remedy if this Court be taken away; and this would deter ſuch from having any dealings there, and the Gentry of that Country ought to conſider, whether if this Court were down, it would not be extreamly difficult for them to borrow Money in <hi>England.</hi>
+            </p>
+            <p n="5">5. In this Court a poor man compels his right againſt Great men at a ſmall charge: for if he have many Debts owing from divers perſons, he may ſue them all at one charge, and ſet forth his cauſes of action againſt them ſeverally in one Bill, be they ten or more Defendants, and have Judgment and Execution ſeverally againſt them. Whereas at <hi>Weſtminſter,</hi> or the Great Seſſions, he muſt have ſeveral Actions, and conſequently be at the charge of ſo many Suits, each of which Suits will be far more expenſive than this Suit in the <hi>Marches</hi> for all the Debts together.</p>
+            <p n="6">6. If this Court be taken away, and Juſtice to be had only in the reſpective Counties of <hi>Wales</hi> at the Great Seſſions, which are limited to each particular County, then the recovery of many Debts will be avoided by the Defendant's ſtepping out of one County into another, to prevent any execution, which is a frequent practice, eſpecially with them who live in the Confines of Counties.</p>
+            <p n="7">
+               <pb n="10" facs="tcp:45976:7"/>7. By the Statute of <hi>Rutland</hi> Judgments, or Actions of Debt, in the <hi>Great Seſſions,</hi> are given by default, without any notice or Summons, to the Defen<g ref="char:EOLhyphen"/>dants, upon a preſumption that all perſons are to be preſent at the ſaid <hi>Seſſions,</hi> upon the general Summons of the County, Fifteen days before. Many taking advantage of this, commence Actions on purpoſe againſt perſons without any cauſe, and eſpecially, againſt ſuch as have Eſtates in <hi>Wales,</hi> and yet live in other Counties, whereby it is impoſſible they ſhould have notice to defend them<g ref="char:EOLhyphen"/>ſelves: So that people in their Perſons and Eſtates are ſurpriz'd and ſeiz'd, which is the firſt notice they receive of any Suit againſt them. At the Court of the <hi>Marches</hi> this is ſpeedily reliev'd at a very little charge; but in the Courts of <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> or elſewhere, the Remedy is tedious and chargeable; which would cauſe many ſuch pretended Debts to be paid or compounded, rather than men would be at the expence of redreſſing themſelves by ſuch troubleſom means. And this, perhaps, may make ſome Injunctions to the <hi>Great Seſſions</hi> ex<g ref="char:EOLhyphen"/>cuſable.</p>
+            <p n="8">8. The quieting of a three Years peaceable Poſſeſſion, hath been found great<g ref="char:EOLhyphen"/>ly beneficial for <hi>Wales,</hi> where many ſtrifes happen very often on ſuch occaſions, with the death and wounding of men, which no Court beſides this of the <hi>Marches</hi> can ſo effectually, and readily prevent.</p>
+            <p>There are other advantages which attend the Juriſdiction of this Court, too many to be here enumerated; but to any unprejudic'd perſons, this may appear ſufficient to ſhew, that the Clamours againſt this Ancient Court have been groundleſs: and that if it be taken away, all people that have any Concerns in <hi>Wales</hi> (except ſuch as like not to pay their Debts and do right to their Neigh<g ref="char:EOLhyphen"/>bours) will find the want of it when it is too late. Yet had the Clamours any thing of Juſtice in them, the total aboliſhing a Court of ſo long and legal an Eſtabliſhment, and ſo highly beneficial to the Subjects of <hi>England</hi> and <hi>Wales,</hi> might prove an Innovation of dangerous conſequence, at a time when tis not fit to try ſuch Experiments; nor would it be for the Intereſt of the Publick, to have thou<g ref="char:EOLhyphen"/>ſands now petitioning for Juſtice, as they did upon the return of <hi>C.</hi> 2. after the diſcountinance of this Court by the preceding Troubles.</p>
+            <pb facs="tcp:45976:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
